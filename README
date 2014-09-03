@@ -1,0 +1,3 @@
+Bundle had been installed. if you want to add new bundle
+vim -> :BundleInstalled
+you can modify either .vim.bundles or .vim.bundles.local
